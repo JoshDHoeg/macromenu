@@ -2,15 +2,15 @@ import app from 'firebase/app';
 import 'firebase/auth';
 import 'firebase/database';
 
-const config = {
-    apiKey: "AIzaSyBOzLGdlS1boV5SegE5MnhRJLP2Is_lw0E",
-    authDomain: "thehelpboard.firebaseapp.com",
-    databaseURL: "https://thehelpboard.firebaseio.com",
-    projectId: "thehelpboard",
-    storageBucket: "thehelpboard.appspot.com",
-    messagingSenderId: "450773720854",
-    appId: "1:450773720854:web:3e03bf77ec78dac36cfa37",
-    measurementId: "G-24XDZKHTT3"
+  const config = {
+    apiKey: "AIzaSyBdi327ROXTKyAiANCL1lk8fd2sTMfOnt4",
+    authDomain: "macro-menu.firebaseapp.com",
+    databaseURL: "https://macro-menu.firebaseio.com",
+    projectId: "macro-menu",
+    storageBucket: "macro-menu.appspot.com",
+    messagingSenderId: "1048977791488",
+    appId: "1:1048977791488:web:5f1b59ebf2995d9cf656e5",
+    measurementId: "G-LCJM79XNMP"
   };
 
 //   const devConfig = {
